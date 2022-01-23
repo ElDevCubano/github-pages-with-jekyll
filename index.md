@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome, ¡Bienvenidos!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Esto es para tutoriales de informatica.
